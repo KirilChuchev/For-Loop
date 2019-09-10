@@ -1,0 +1,6 @@
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Histogram (HOME)\bin\Debug\Histogram (HOME).exe.config
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Histogram (HOME)\bin\Debug\Histogram (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Histogram (HOME)\bin\Debug\Histogram (HOME).pdb
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Histogram (HOME)\obj\Debug\Histogram (HOME).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Histogram (HOME)\obj\Debug\Histogram (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Histogram (HOME)\obj\Debug\Histogram (HOME).pdb

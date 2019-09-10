@@ -1,0 +1,7 @@
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Histogram\bin\Debug\Histogram.exe.config
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Histogram\bin\Debug\Histogram.exe
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Histogram\bin\Debug\Histogram.pdb
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Histogram\obj\Debug\Histogram.csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Histogram\obj\Debug\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Histogram\obj\Debug\Histogram.exe
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Histogram\obj\Debug\Histogram.pdb

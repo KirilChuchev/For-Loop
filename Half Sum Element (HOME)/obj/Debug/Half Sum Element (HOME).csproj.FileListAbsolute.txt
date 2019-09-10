@@ -1,0 +1,6 @@
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Half Sum Element (HOME)\bin\Debug\Half Sum Element (HOME).exe.config
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Half Sum Element (HOME)\bin\Debug\Half Sum Element (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Half Sum Element (HOME)\bin\Debug\Half Sum Element (HOME).pdb
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Half Sum Element (HOME)\obj\Debug\Half Sum Element (HOME).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Half Sum Element (HOME)\obj\Debug\Half Sum Element (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Half Sum Element (HOME)\obj\Debug\Half Sum Element (HOME).pdb
