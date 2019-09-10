@@ -1,0 +1,7 @@
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Divide without remainder (HOME)\bin\Debug\Divide without remainder (HOME).exe.config
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Divide without remainder (HOME)\bin\Debug\Divide without remainder (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Divide without remainder (HOME)\bin\Debug\Divide without remainder (HOME).pdb
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Divide without remainder (HOME)\obj\Debug\Divide without remainder (HOME).csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Divide without remainder (HOME)\obj\Debug\Divide without remainder (HOME).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Divide without remainder (HOME)\obj\Debug\Divide without remainder (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Divide without remainder (HOME)\obj\Debug\Divide without remainder (HOME).pdb

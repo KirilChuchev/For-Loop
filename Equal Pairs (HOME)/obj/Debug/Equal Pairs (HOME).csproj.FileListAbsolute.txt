@@ -1,0 +1,7 @@
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Equal Pairs (HOME)\bin\Debug\Equal Pairs (HOME).exe.config
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Equal Pairs (HOME)\bin\Debug\Equal Pairs (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Equal Pairs (HOME)\bin\Debug\Equal Pairs (HOME).pdb
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Equal Pairs (HOME)\obj\Debug\Equal Pairs (HOME).csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Equal Pairs (HOME)\obj\Debug\Equal Pairs (HOME).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Equal Pairs (HOME)\obj\Debug\Equal Pairs (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Equal Pairs (HOME)\obj\Debug\Equal Pairs (HOME).pdb
