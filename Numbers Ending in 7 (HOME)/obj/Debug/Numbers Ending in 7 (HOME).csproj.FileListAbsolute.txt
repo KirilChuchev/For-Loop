@@ -1,0 +1,6 @@
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Numbers Ending in 7 (HOME)\bin\Debug\Numbers Ending in 7 (HOME).exe.config
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Numbers Ending in 7 (HOME)\bin\Debug\Numbers Ending in 7 (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Numbers Ending in 7 (HOME)\bin\Debug\Numbers Ending in 7 (HOME).pdb
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Numbers Ending in 7 (HOME)\obj\Debug\Numbers Ending in 7 (HOME).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Numbers Ending in 7 (HOME)\obj\Debug\Numbers Ending in 7 (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Numbers Ending in 7 (HOME)\obj\Debug\Numbers Ending in 7 (HOME).pdb

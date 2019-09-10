@@ -1,0 +1,7 @@
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Salary (HOME)\bin\Debug\Salary (HOME).exe.config
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Salary (HOME)\bin\Debug\Salary (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Salary (HOME)\bin\Debug\Salary (HOME).pdb
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Salary (HOME)\obj\Debug\Salary (HOME).csprojAssemblyReference.cache
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Salary (HOME)\obj\Debug\Salary (HOME).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Salary (HOME)\obj\Debug\Salary (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Salary (HOME)\obj\Debug\Salary (HOME).pdb

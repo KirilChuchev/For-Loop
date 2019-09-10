@@ -1,0 +1,6 @@
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Odd - Even Position (HOME)\bin\Debug\Odd - Even Position (HOME).exe.config
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Odd - Even Position (HOME)\bin\Debug\Odd - Even Position (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Odd - Even Position (HOME)\bin\Debug\Odd - Even Position (HOME).pdb
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Odd - Even Position (HOME)\obj\Debug\Odd - Even Position (HOME).csproj.CoreCompileInputs.cache
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Odd - Even Position (HOME)\obj\Debug\Odd - Even Position (HOME).exe
+C:\Users\kickz_oob\source\repos\Exercise 10.02\Odd - Even Position (HOME)\obj\Debug\Odd - Even Position (HOME).pdb
